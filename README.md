@@ -9,3 +9,4 @@ HealthScan is a Flask-based health diagnostics platform that leverages biometric
 - RESTful API endpoints for scanning and reporting
 - Real-time vitals monitoring (heart rate, temperature, blood oxygen)
 - Authentication and access control
+https://hirendra-creater.github.io/HealthScan/
